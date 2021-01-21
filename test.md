@@ -19,7 +19,7 @@ home_spotlights:
     url: lorem-ipsum
 menus:
   main:
-    title: lorem-ipsum
+    title: Projects
     weight: 0
     identifier: lorem-ipsum
     type: page_menu_item

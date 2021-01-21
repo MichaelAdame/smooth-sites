@@ -25,6 +25,7 @@ menus:
     type: page_menu_item
   type: page_menus
 layout: page
+content_img_path: images/linkedin.jpg
 ---
 ## Lorem ipsum
 

@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Projects
 home_spotlights:
   enabled: false
   weight: 0
